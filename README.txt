@@ -7,6 +7,7 @@ References:
 -- R. N. Silver, "Theory of deep inelastic neutron scattering: Hard-core perturbation theory," Phys. Rev. B 38, 2283-2296 (1988).
 -- R. N. Silver, "Theory of deep inelastic neutron scattering.  II.  Application to normal and superfluid 4He," Phys. Rev. B 39, 4002-4029 (1989).
 -- T. R. Prisk et al, "The Momentum Distribution of Liquid 4-He," J. Low Temp Phys. 189, 158-184 (2017).
+-- M. S. Bryan et al. "The momentum distribution of liquid 3-He," Europhys. Lett. 115, 66001 (2016).
 
 Contents:
   -- requirements.txt: This file lists all needed python libraries.
