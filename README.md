@@ -101,34 +101,7 @@ hard-core-perturbation-theory/
 └── LICENSE
 ```
 
-## References
-
-```text
-R. N. Silver,
-"Theory of deep inelastic neutron scattering: Hard-core perturbation theory,"
-Physical Review B 38, 2283-2296 (1988).
-```
-
-```text
-R. N. Silver,
-"Theory of deep inelastic neutron scattering. II. Application to normal and
-superfluid 4He,"
-Physical Review B 39, 4022-4029 (1989).
-```
-
-```text
-T. R. Prisk et al.,
-"The Momentum Distribution of Liquid 4-He,"
-Journal of Low Temperature Physics 189, 158-184 (2017).
-```
-
-```text
-M. S. Bryan et al.,
-"The momentum distribution of liquid 3-He,"
-Europhysics Letters 115, 66001 (2016).
-```
-
-## Citation
+## References and Citations
 
 If you find this code helpful for either teaching or research, please cite the
 original work by Silver and this repository:
